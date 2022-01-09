@@ -1,0 +1,9 @@
+.img {
+  width: 180px;
+  height: 33px;
+  margin-left: 20px;
+  border: none;
+  background-image: url('../../images/linkedin.png');
+  background-size: cover;
+  cursor: pointer;
+}

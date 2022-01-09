@@ -1,0 +1,21 @@
+@import-normalize;
+
+body {
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  font-size: 16px;
+  padding: 20px 0;
+}
+
+ul {
+  padding: 0;
+}
+
+p {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}

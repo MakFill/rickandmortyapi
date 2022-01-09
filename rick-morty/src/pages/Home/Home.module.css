@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  margin: 0 0 20px 20px;
+}
+
+.autocomplete {
+  width: 300px;
+}
+
+.character:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 700px) {
+  .wrapper {
+    flex-direction: column;
+  }
+  .autocomplete {
+    margin-bottom: 20px;
+  }
+}
