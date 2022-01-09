@@ -1,0 +1,13 @@
+.btn {
+  margin-left: 20px !important;
+}
+
+.btn a {
+  color: inherit;
+}
+
+@media (max-width: 700px) {
+  .btn {
+    margin-bottom: 20px !important;
+  }
+}
